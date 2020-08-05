@@ -19,6 +19,12 @@ there, please contact support for Windows driver information.
 
 ### Lemur Pro (lemp9)
 
+- [Intel Chipset Driver](./drivers/chipset-10.1.18383.8213-public-mup.zip)
+  - Download the ZIP file, extract, and run `SetupChipset.exe`
+- [Intel SerialIO Driver](./drivers/serialio_30.100.1947.3_pv_cnl_19h1.zip)
+  - Download the ZIP file, extract, and run `SetupSerialIO.exe`
+- Other drivers are installed automatically through Windows Update
+
 ### Oryx Pro (oryp6)
 
 - [Intel Chipset Driver](./drivers/chipset-10.1.18383.8213-public-mup.zip)

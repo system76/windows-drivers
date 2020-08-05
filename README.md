@@ -13,16 +13,20 @@ there, please contact support for Windows driver information.
 
 - [Intel Chipset Driver](./drivers/chipset-10.1.18383.8213-public-mup.zip)
   - Download the ZIP file, extract, and run `SetupChipset.exe`
-- [Intel SerialIO Driver](./drivers/SerialIO_30.100.2020.7_PV_CNL_20H1.zip)
+- [Intel SerialIO Driver](./drivers/serialio_30.100.2020.7_pv_cnl_20h1.zip)
   - Download the ZIP file, extract, and run `SetupSerialIO.exe`
+- [Intel WiFi Driver](./drivers/wifi-phwfw01690_21.110.1.1_g.zip)
+  - Download the ZIP file, extract, and run `UWD/Win64/Installer/WirelessSetup.exe`
 - Other drivers are installed automatically through Windows Update
 
 ### Lemur Pro (lemp9)
 
 - [Intel Chipset Driver](./drivers/chipset-10.1.18383.8213-public-mup.zip)
   - Download the ZIP file, extract, and run `SetupChipset.exe`
-- [Intel SerialIO Driver](./drivers/serialio_30.100.1947.3_pv_cnl_19h1.zip)
+- [Intel SerialIO Driver](./drivers/serialio_30.100.2020.7_pv_cnl_20h1.zip)
   - Download the ZIP file, extract, and run `SetupSerialIO.exe`
+- [Intel WiFi Driver](./drivers/wifi-phwfw01690_21.110.1.1_g.zip)
+  - Download the ZIP file, extract, and run `UWD/Win64/Installer/WirelessSetup.exe`
 - Other drivers are installed automatically through Windows Update
 
 ### Oryx Pro (oryp6)
@@ -31,4 +35,6 @@ there, please contact support for Windows driver information.
   - Download the ZIP file, extract, and run `SetupChipset.exe`
 - [Intel SerialIO Driver](./drivers/SerialIO_30.100.2020.7_PV_CNL_20H1.zip)
   - Download the ZIP file, extract, and run SetupSerialIO.exe
+- [Intel WiFi Driver](./drivers/wifi-phwfw01690_21.110.1.1_g.zip)
+  - Download the ZIP file, extract, and run `UWD/Win64/Installer/WirelessSetup.exe`
 - Other drivers are installed automatically through Windows Update

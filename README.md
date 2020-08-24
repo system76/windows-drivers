@@ -31,7 +31,7 @@ there, please contact support for Windows driver information.
   - Download the ZIP file, extract, and run `SetupSerialIO.exe`
 - [Intel WiFi Driver](./drivers/wifi-phwfw01690_21.110.1.1_g.zip)
   - Download the ZIP file, extract, and run `UWD/Win64/Installer/WirelessSetup.exe`
-- [Realtek Ethernet Driver](Install_Win10_10042_07222020.zip)
+- [Realtek Ethernet Driver](./drivers/Install_Win10_10042_07222020.zip)
   - Download the ZIP file, extract, and run `Install_Win10_10042_07222020/setup.exe`
 - Other drivers are installed automatically through Windows Update
 

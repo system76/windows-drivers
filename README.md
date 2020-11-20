@@ -63,6 +63,8 @@ there, please contact support for Windows driver information.
   - Download the ZIP file, extract, and run `SetupChipset.exe`
 - [Intel SerialIO Driver](./drivers/serialio_30.100.2031.2_pv_tgl-lp_20h1v2.zip)
   - Download the ZIP file, extract, and run `SetupSerialIO.exe`
+- [Intel Thunderbolt Driver](./drivers/tbt_dch_sw_rev77.zip)
+  - Download the ZIP file, extract, and run `TbtWosRelease_77/Thunderbolt(TM) Software Installer.exe`
 - [Intel WiFi Driver](./drivers/wifi-phwfw01690_21.110.1.1_g.zip)
   - Download the ZIP file, extract, and run `UWD/Win64/Installer/WirelessSetup.exe`
 - Other drivers are installed automatically through Windows Update
@@ -93,6 +95,8 @@ there, please contact support for Windows driver information.
   - Download the ZIP file, extract, and run `SetupChipset.exe`
 - [Intel SerialIO Driver](./drivers/serialio_30.100.2031.2_pv_tgl-lp_20h1v2.zip)
   - Download the ZIP file, extract, and run `SetupSerialIO.exe`
+- [Intel Thunderbolt Driver](./drivers/tbt_dch_sw_rev77.zip)
+  - Download the ZIP file, extract, and run `TbtWosRelease_77/Thunderbolt(TM) Software Installer.exe`
 - [Intel WiFi Driver](./drivers/wifi-phwfw01690_21.110.1.1_g.zip)
   - Download the ZIP file, extract, and run `UWD/Win64/Installer/WirelessSetup.exe`
 - Other drivers are installed automatically through Windows Update

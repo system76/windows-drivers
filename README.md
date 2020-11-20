@@ -67,6 +67,8 @@ there, please contact support for Windows driver information.
   - Download the ZIP file, extract, and run `TbtWosRelease_77/Thunderbolt(TM) Software Installer.exe`
 - [Intel WiFi Driver](./drivers/wifi-phwfw01690_21.110.1.1_g.zip)
   - Download the ZIP file, extract, and run `UWD/Win64/Installer/WirelessSetup.exe`
+- [Realtek Card Reader](./drivers/RtsXStor_10.0.370.188.zip)
+  - Download the ZIP file, extract, and run `RtsXStor_10.0.370.188/setup.exe`
 - Other drivers are installed automatically through Windows Update
 
 ### Gazelle (gaze15)
@@ -99,6 +101,8 @@ there, please contact support for Windows driver information.
   - Download the ZIP file, extract, and run `TbtWosRelease_77/Thunderbolt(TM) Software Installer.exe`
 - [Intel WiFi Driver](./drivers/wifi-phwfw01690_21.110.1.1_g.zip)
   - Download the ZIP file, extract, and run `UWD/Win64/Installer/WirelessSetup.exe`
+- [Realtek Card Reader](./drivers/RtsXStor_10.0.370.188.zip)
+  - Download the ZIP file, extract, and run `RtsXStor_10.0.370.188/setup.exe`
 - Other drivers are installed automatically through Windows Update
 
 ### Oryx Pro (oryp6)

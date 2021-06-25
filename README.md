@@ -12,6 +12,7 @@ there, please contact support for Windows driver information.
 - [Galago Pro (galp4)](#galago-pro-galp4)
 - [Galago Pro (galp5)](#galago-pro-galp5)
 - [Gazelle (gaze15)](#gazelle-gaze15)
+- [Gazelle (gaze16)](#gazelle-gaze16)
 - [Lemur Pro (lemp9)](#lemur-pro-lemp9)
 - [Lemur Pro (lemp10)](#lemur-pro-lemp10)
 - [Oryx Pro (oryp6)](#oryx-pro-oryp6)
@@ -95,6 +96,14 @@ there, please contact support for Windows driver information.
   - Download the ZIP file, extract, and run `SetupSerialIO.exe`
 - [Intel WiFi Driver](./drivers/wifi-phwfw01690_21.110.1.1_g.zip)
   - Download the ZIP file, extract, and run `UWD/Win64/Installer/WirelessSetup.exe`
+- Other drivers are installed automatically through Windows Update
+
+### Gazelle (gaze16)
+
+- [Intel Chipset Driver](./drivers/chipset-10.1.18698.8258-public-mup.zip)
+  - Download the ZIP file, extract, and run `SetupChipset.exe`
+- [Intel SerialIO Driver](./drivers/serialio_30.100.2104.1_pv_tgl_pch_20h2v2.zip)
+  - Download the ZIP file, extract, and run `SetupSerialIO.exe`
 - Other drivers are installed automatically through Windows Update
 
 ### Lemur Pro (lemp9)

@@ -112,6 +112,8 @@ there, please contact support for Windows driver information.
 
 - [Intel Chipset Driver](./drivers/chipset-10.1.19074.8314-public-mup.zip)
   - Download the ZIP file, extract, and run `SetupChipset.exe`
+- [Intel HID Event Filter Driver](./drivers/hideventfilterdriver-2.2.1.386_rs5_19h1_20h1_21h2_certified.zip)
+  - Download the ZIP file, extract, and run `Installer/Setup.exe`
 - [Intel SerialIO Driver](./drivers/serialio_30.100.2148.1_pv_adl-pch_21h2.zip)
   - Download the ZIP file, extract, and run `SetupSerialIO.exe`
 - [Intel Thunderbolt Driver](./drivers/tbt_dch_sw_rev86.zip)

@@ -69,7 +69,7 @@ there, please contact support for Windows driver information.
 
 ### Darter Pro (darp8)
 
-- [Intel Chipset Driver](./drivers/chipset-10.1.19074.8314-public-mup.zip)
+- [Intel Chipset Driver](./drivers/chipset-10.1.18950.8298-public-mup.zip)
   - Download the ZIP file, extract, and run `SetupChipset.exe`
 - [Intel SerialIO Driver](./drivers/serialio_30.100.2020.7_pv_cnl_20h1.zip)
   - Download the ZIP file, extract, and run `SetupSerialIO.exe`

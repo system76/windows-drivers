@@ -9,7 +9,7 @@ there, please contact support for Windows driver information.
 - [Bonobo WS (bonw14)](#bonobo-ws-bonw14)
 - [Darter Pro (darp6)](#darter-pro-darp6)
 - [Darter Pro (darp7)](#darter-pro-darp7)
-- [Darter Pro (darp8)][#darter-pro-darp8)
+- [Darter Pro (darp8)](#darter-pro-darp8)
 - [Galago Pro (galp4)](#galago-pro-galp4)
 - [Galago Pro (galp5)](#galago-pro-galp5)
 - [Gazelle (gaze15)](#gazelle-gaze15)

@@ -9,6 +9,7 @@ there, please contact support for Windows driver information.
 - [Bonobo WS (bonw14)](#bonobo-ws-bonw14)
 - [Darter Pro (darp6)](#darter-pro-darp6)
 - [Darter Pro (darp7)](#darter-pro-darp7)
+- [Darter Pro (darp8)][#darter-pro-darp8)
 - [Galago Pro (galp4)](#galago-pro-galp4)
 - [Galago Pro (galp5)](#galago-pro-galp5)
 - [Gazelle (gaze15)](#gazelle-gaze15)
@@ -64,6 +65,16 @@ there, please contact support for Windows driver information.
   - Download the ZIP file, extract, and run `UWD/Win64/Installer/WirelessSetup.exe`
 - [Realtek Card Reader](./drivers/RtsXStor_10.0.370.188.zip)
   - Download the ZIP file, extract, and run `RtsXStor_10.0.370.188/setup.exe`
+- Other drivers are installed automatically through Windows Update
+
+### Darter Pro (darp8)
+
+- [Intel Chipset Driver](./drivers/chipset-10.1.19074.8314-public-mup.zip)
+  - Download the ZIP file, extract, and run `SetupChipset.exe`
+- [Intel SerialIO Driver](./drivers/serialio_30.100.2020.7_pv_cnl_20h1.zip)
+  - Download the ZIP file, extract, and run `SetupSerialIO.exe`
+- [Intel WiFi Driver](./drivers/wifi-phwfw01690_21.110.1.1_g.zip)
+  - Download the ZIP file, extract, and run `UWD/Win64/Installer/WirelessSetup.exe`
 - Other drivers are installed automatically through Windows Update
 
 ### Galago Pro (galp4)

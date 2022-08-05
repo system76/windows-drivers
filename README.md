@@ -185,6 +185,8 @@ there, please contact support for Windows driver information.
 
 - [Intel Chipset Driver](./drivers/chipset-10.1.18698.8258-public-mup.zip)
   - Download the ZIP file, extract, and run `SetupChipset.exe`
+- [Intel HID Event Filter Driver](./drivers/hideventfilterdriver-2.2.1.386_rs5_19h1_20h1_21h2_certified.zip)
+  - Download the ZIP file, extract, and run `Installer/Setup.exe`
 - [Intel SerialIO Driver](./drivers/serialio_30.100.2104.1_pv_tgl_pch_20h2v2.zip)
   - Download the ZIP file, extract, and run `SetupSerialIO.exe`
 - Other drivers are installed automatically through Windows Update

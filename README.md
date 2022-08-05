@@ -189,4 +189,7 @@ there, please contact support for Windows driver information.
   - Download the ZIP file, extract, and run `Installer/Setup.exe`
 - [Intel SerialIO Driver](./drivers/serialio_30.100.2104.1_pv_tgl_pch_20h2v2.zip)
   - Download the ZIP file, extract, and run `SetupSerialIO.exe`
+- [Intel WiFi Driver](./drivers/wifi-phwfw01690_21.110.1.1_g.zip)
+  - Download the ZIP file, extract, and run `UWD/Win64/Installer/WirelessSetup.exe`
+  
 - Other drivers are installed automatically through Windows Update

@@ -20,6 +20,7 @@ there, please contact support for Windows driver information.
 - [Oryx Pro (oryp6)](#oryx-pro-oryp6)
 - [Oryx Pro (oryp7)](#oryx-pro-oryp7)
 - [Oryx Pro (oryp8)](#oryx-pro-oryp8)
+- [Oryx Pro (oryp9)](#oryx-pro-oryp9)
 
 ### Adder WS (addw2)
 

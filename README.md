@@ -191,5 +191,16 @@ there, please contact support for Windows driver information.
   - Download the ZIP file, extract, and run `SetupSerialIO.exe`
 - [Intel WiFi Driver](./drivers/wifi-phwfw01690_21.110.1.1_g.zip)
   - Download the ZIP file, extract, and run `UWD/Win64/Installer/WirelessSetup.exe`
+
+  ### Oryx Pro (oryp9)
+
+- [Intel Chipset Driver](./drivers/chipset-10.1.18950.8297-public-mup.zip)
+  - Download the ZIP file, extract, and run `SetupChipset.exe`
+- [Intel HID Event Filter Driver](./drivers/hideventfilterdriver-2.2.1.386_rs5_19h1_20h1_21h2_certified.zip)
+  - Download the ZIP file, extract, and run `Installer/Setup.exe`
+- [Intel SerialIO Driver](./drivers/serialio-30.100.2134.22_pv_adl-lp_22h2.zip)
+  - Download the ZIP file, extract, and run `SetupSerialIO.exe`
+- [Intel WiFi Driver](./drivers/wifi-phwfw01690_21.110.1.1_g.zip)
+  - Download the ZIP file, extract, and run `UWD/Win64/Installer/WirelessSetup.exe`
   
 - Other drivers are installed automatically through Windows Update

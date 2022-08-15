@@ -20,6 +20,7 @@ there, please contact support for Windows driver information.
 - [Oryx Pro (oryp6)](#oryx-pro-oryp6)
 - [Oryx Pro (oryp7)](#oryx-pro-oryp7)
 - [Oryx Pro (oryp8)](#oryx-pro-oryp8)
+- [Oryx Pro (oryp9)](#oryx-pro-oryp9)
 
 ### Adder WS (addw2)
 
@@ -57,7 +58,7 @@ there, please contact support for Windows driver information.
 
 - [Intel Chipset Driver](./drivers/chipset-10.1.18460.8229-public-mup.zip)
   - Download the ZIP file, extract, and run `SetupChipset.exe`
-- [Intel SerialIO Driver](./drivers/serialio_30.100.2031.2_pv_tgl-lp_20h1v2.zip)
+- [Intel SerialIO Driver](./drivers/serialio_30.100.2031.2_pv_adl-lp_22h2.zip)
   - Download the ZIP file, extract, and run `SetupSerialIO.exe`
 - [Intel Thunderbolt Driver](./drivers/tbt_dch_sw_rev77.zip)
   - Download the ZIP file, extract, and run `TbtWosRelease_77/Thunderbolt(TM) Software Installer.exe`
@@ -71,7 +72,7 @@ there, please contact support for Windows driver information.
 
 - [Intel Chipset Driver](./drivers/chipset-10.1.18950.8298-public-mup.zip)
   - Download the ZIP file, extract, and run `SetupChipset.exe`
-- [Intel SerialIO Driver](./drivers/serialio_30.100.2031.2_pv_tgl-lp_20h1v2.zip)
+- [Intel SerialIO Driver](./drivers/serialio_30.100.2031.2_pv_adl-lp_22h2.zip)
   - Download the ZIP file, extract, and run `SetupSerialIO.exe`
 - [Intel Thunderbolt Driver](./drivers/tbt_dch_sw_rev77.zip)
   - Download the ZIP file, extract, and run `TbtWosRelease_77/Thunderbolt(TM) Software Installer.exe`
@@ -95,7 +96,7 @@ there, please contact support for Windows driver information.
 
 - [Intel Chipset Driver](./drivers/chipset-10.1.18460.8229-public-mup.zip)
   - Download the ZIP file, extract, and run `SetupChipset.exe`
-- [Intel SerialIO Driver](./drivers/serialio_30.100.2031.2_pv_tgl-lp_20h1v2.zip)
+- [Intel SerialIO Driver](./drivers/serialio_30.100.2031.2_pv_adl-lp_22h2.zip)
   - Download the ZIP file, extract, and run `SetupSerialIO.exe`
 - [Intel Thunderbolt Driver](./drivers/tbt_dch_sw_rev77.zip)
   - Download the ZIP file, extract, and run `TbtWosRelease_77/Thunderbolt(TM) Software Installer.exe`
@@ -151,7 +152,7 @@ there, please contact support for Windows driver information.
 
 - [Intel Chipset Driver](./drivers/chipset-10.1.18460.8229-public-mup.zip)
   - Download the ZIP file, extract, and run `SetupChipset.exe`
-- [Intel SerialIO Driver](./drivers/serialio_30.100.2031.2_pv_tgl-lp_20h1v2.zip)
+- [Intel SerialIO Driver](./drivers/serialio_30.100.2031.2_pv_adl-lp_22h2.zip)
   - Download the ZIP file, extract, and run `SetupSerialIO.exe`
 - [Intel Thunderbolt Driver](./drivers/tbt_dch_sw_rev77.zip)
   - Download the ZIP file, extract, and run `TbtWosRelease_77/Thunderbolt(TM) Software Installer.exe`
@@ -185,6 +186,22 @@ there, please contact support for Windows driver information.
 
 - [Intel Chipset Driver](./drivers/chipset-10.1.18698.8258-public-mup.zip)
   - Download the ZIP file, extract, and run `SetupChipset.exe`
+- [Intel HID Event Filter Driver](./drivers/hideventfilterdriver-2.2.1.386_rs5_19h1_20h1_21h2_certified.zip)
+  - Download the ZIP file, extract, and run `Installer/Setup.exe`
 - [Intel SerialIO Driver](./drivers/serialio_30.100.2104.1_pv_tgl_pch_20h2v2.zip)
   - Download the ZIP file, extract, and run `SetupSerialIO.exe`
+- [Intel WiFi Driver](./drivers/wifi-phwfw01690_21.110.1.1_g.zip)
+  - Download the ZIP file, extract, and run `UWD/Win64/Installer/WirelessSetup.exe`
+
+  ### Oryx Pro (oryp9)
+
+- [Intel Chipset Driver](./drivers/chipset-10.1.18950.8297-public-mup.zip)
+  - Download the ZIP file, extract, and run `SetupChipset.exe`
+- [Intel HID Event Filter Driver](./drivers/hideventfilterdriver-2.2.1.386_rs5_19h1_20h1_21h2_certified.zip)
+  - Download the ZIP file, extract, and run `Installer/Setup.exe`
+- [Intel SerialIO Driver](./drivers/serialio-30.100.2134.22_pv_adl-lp_22h2.zip)
+  - Download the ZIP file, extract, and run `SetupSerialIO.exe`
+- [Intel WiFi Driver](./drivers/wifi-phwfw01690_21.110.1.1_g.zip)
+  - Download the ZIP file, extract, and run `UWD/Win64/Installer/WirelessSetup.exe`
+  
 - Other drivers are installed automatically through Windows Update

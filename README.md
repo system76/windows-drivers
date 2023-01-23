@@ -17,6 +17,7 @@ there, please contact support for Windows driver information.
 - [Gazelle (gaze17)](#gazelle-gaze17)
 - [Lemur Pro (lemp9)](#lemur-pro-lemp9)
 - [Lemur Pro (lemp10)](#lemur-pro-lemp10)
+- [Lemur Pro (lemp11)](#lemur-pro-lemp11)
 - [Oryx Pro (oryp6)](#oryx-pro-oryp6)
 - [Oryx Pro (oryp7)](#oryx-pro-oryp7)
 - [Oryx Pro (oryp8)](#oryx-pro-oryp8)
@@ -161,6 +162,20 @@ there, please contact support for Windows driver information.
   - Download the ZIP file, extract, and run `UWD/Win64/Installer/WirelessSetup.exe`
 - [Realtek Card Reader](./drivers/RtsXStor_10.0.370.188.zip)
   - Download the ZIP file, extract, and run `RtsXStor_10.0.370.188/setup.exe`
+- Other drivers are installed automatically through Windows Update
+
+### Lemur Pro (lemp11)
+
+- [Intel Chipset Driver](./drivers/Chipset-10.1.19159.8331-Public-MUP.zip)
+  - Download the ZIP file, extract, and run `SetupChipset.exe`
+- [Intel HID Event Filter Driver](./drivers/hideventfilterdriver-2.2.1.386_rs5_19h1_20h1_21h2_certified.zip)
+  - Download the ZIP file, extract, and run `Installer/Setup.exe`
+- [Intel SerialIO Driver](./drivers/SerialIO_30.100.2212.4_v2_PV_ADL-PCH_22H2.zip)
+  - Download the ZIP file, extract, and run `SetupSerialIO.exe`
+- [Intel Thunderbolt Driver](./drivers/TBT_DCH_SW_Rev86_2.zip)
+  - Download the ZIP file, extract, and run `TBT_DCH_SW_Rev86_2/Installer_Executable/Thunderbolt(TM) Software Installer.exe`
+- [Intel WiFi Driver](./drivers/wifi-PHWFW06454_22.150.0.3_G.zip)
+  - Download the ZIP file, extract, and run `UWD/Win64/Installer/WirelessSetup.exe`
 - Other drivers are installed automatically through Windows Update
 
 ### Oryx Pro (oryp6)

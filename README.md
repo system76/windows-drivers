@@ -239,14 +239,14 @@ there, please contact support for Windows driver information.
   - Download the ZIP file, extract, and run `UWD/Win64/Installer/WirelessSetup.exe`
 - Other drivers are installed automatically through Windows Update
 
-### Pangolin 12 (pang12)
+### Pangolin (pang12)
 
 - [AMD Chipset Driver](./drivers/pang12-chipset-4.06.22.249.zip)
-  - Download the ZIP file, extract, and run `AMD_Chipset_Software.exe`
+  - Download the ZIP file, extract, and run `1_Chipset/AMD_Chipset_Software.exe`
 - [MediaTek Wifi and Bluetooth Driver](./drivers/pang12-wifi_bt-june_2022.zip)
-  - Download the ZIP file, extract, right click on the `mtkwl6ex.inf` file and click Install, then right click on the `mtkbtfilter.inf` file and click Install.
+  - Download the ZIP file, extract, right click on the `WLAN/mtkwl6ex.inf` file and click Install, then right click on the `BT/mtkbtfilter.inf` file and click Install.
 - [Fingerprint Driver](./drivers/pang12-FocalTechFPSPKdriver21H2X64_V2.2.3.76_WHQL.zip)
-  - Download the ZIP file, extract, right click on the `ftWbioUmdfDriverV2.inf` file and click Install.
+  - Download the ZIP file, extract, right click on the `FocalTechFPSPKdriver21H2X64_V2.2.3.76_WHQL/ftWbioUmdfDriverV2.inf` file and click Install.
 - [AMD Audio Driver](./drivers/pang12-amd_audio-mar_2023.zip)
-  - Download the ZIP file, extract, right click on the `amdacpbus.inf` file and click Install, then right click on the `amdacpafd.inf` file and click Install.
+  - Download the ZIP file, extract, right click on the `1-install-first-Audio-10x64-ACP_6.0.0.66_rev/amdacpbus.inf` file and click Install, then right click on the `2-install-next-ACP-10x64-6.0.0.40/amdacpafd.inf` file and click Install.
 - Other drivers are installed automatically through Windows Update

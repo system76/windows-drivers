@@ -1,4 +1,4 @@
-# Windows Drivers for System76 Open Firmware Machines
+# Windows Drivers for System76 Machines
 
 Please check for your model in the list below. If you cannot find your model
 there, please contact support for Windows driver information.
@@ -23,6 +23,7 @@ there, please contact support for Windows driver information.
 - [Oryx Pro (oryp8)](#oryx-pro-oryp8)
 - [Oryx Pro (oryp9)](#oryx-pro-oryp9)
 - [Oryx Pro (oryp10)](#oryx-pro-oryp10)
+- [Pangolin 12 (pang12)](#pangolin-pang12)
 
 ### Adder WS (addw2)
 
@@ -236,4 +237,16 @@ there, please contact support for Windows driver information.
   - Download the ZIP file, extract, and run `TBT_DCH_SW_Rev86/Public/Installer_Executable/Thunderbolt(TM) Software Installer.exe`
 - [Intel WiFi Driver](./drivers/wifi-phwfw06118_22.145.0.2_g.zip)
   - Download the ZIP file, extract, and run `UWD/Win64/Installer/WirelessSetup.exe`
+- Other drivers are installed automatically through Windows Update
+
+### Pangolin 12 (pang12)
+
+- [AMD Chipset Driver](./drivers/pang12-chipset-4.06.22.249.zip)
+  - Download the ZIP file, extract, and run `AMD_Chipset_Software.exe`
+- [MediaTek Wifi and Bluetooth Driver](./drivers/pang12-wifi_bt-june_2022.zip)
+  - Download the ZIP file, extract, right click on the `mtkwl6ex.inf` file and click Install, then right click on the `mtkbtfilter.inf` file and click Install.
+- [Fingerprint Driver](./drivers/pang12-FocalTechFPSPKdriver21H2X64_V2.2.3.76_WHQL.zip)
+  - Download the ZIP file, extract, right click on the `ftWbioUmdfDriverV2.inf` file and click Install.
+- [AMD Audio Driver](./drivers/pang12-amd_audio-mar_2023.zip)
+  - Download the ZIP file, extract, right click on the `amdacpbus.inf` file and click Install, then right click on the `amdacpafd.inf` file and click Install.
 - Other drivers are installed automatically through Windows Update

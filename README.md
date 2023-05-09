@@ -23,7 +23,7 @@ there, please contact support for Windows driver information.
 - [Oryx Pro (oryp8)](#oryx-pro-oryp8)
 - [Oryx Pro (oryp9)](#oryx-pro-oryp9)
 - [Oryx Pro (oryp10)](#oryx-pro-oryp10)
-- [Pangolin 12 (pang12)](#pangolin-pang12)
+- [Pangolin (pang12)](#pangolin-pang12)
 
 ### Adder WS (addw2)
 
@@ -239,7 +239,7 @@ there, please contact support for Windows driver information.
   - Download the ZIP file, extract, and run `UWD/Win64/Installer/WirelessSetup.exe`
 - Other drivers are installed automatically through Windows Update
 
-### Pangolin 12 (pang12)
+### Pangolin (pang12)
 
 - [AMD Chipset Driver](./drivers/pang12-chipset-4.06.22.249.zip)
   - Download the ZIP file, extract, and run `AMD_Chipset_Software.exe`

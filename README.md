@@ -15,6 +15,7 @@ there, please contact support for Windows driver information.
 - [Gazelle (gaze15)](#gazelle-gaze15)
 - [Gazelle (gaze16)](#gazelle-gaze16)
 - [Gazelle (gaze17)](#gazelle-gaze17)
+- [Gazelle (gaze18)](#gazelle-gaze18)
 - [Lemur Pro (lemp9)](#lemur-pro-lemp9)
 - [Lemur Pro (lemp10)](#lemur-pro-lemp10)
 - [Lemur Pro (lemp11)](#lemur-pro-lemp11)
@@ -139,6 +140,24 @@ there, please contact support for Windows driver information.
   - Download the ZIP file, extract, and run `TBT_DCH_SW_Rev86/Public/Installer_Executable/Thunderbolt(TM) Software Installer.exe`
 - [Intel WiFi Driver](./drivers/wifi-phwfw06118_22.145.0.2_g.zip)
   - Download the ZIP file, extract, and run `UWD/Win64/Installer/WirelessSetup.exe`
+- Other drivers are installed automatically through Windows Update
+
+### Gazelle (gaze18)
+
+- [Intel Chipset Driver](https://www.intel.com/content/www/us/en/download/19347/chipset-inf-utility.html)
+- [Intel Serial IO Driver](https://www.intel.com/content/www/us/en/download/736251/intel-serial-io-driver-for-windows-10-64-bit-and-windows-11-for-intel-nuc-12-compute-element-elm12hb-x.html)
+  - Download the ZIP file, extract, and run `SetupSerialIO.exe`
+- [Intel HID Event Filter Driver](https://www.intel.com/content/www/us/en/download/739797/intel-hid-event-filter-driver-for-windows-10-64-bit-and-windows-11-for-intel-nuc-12-pro-kits-mini-pcs-nuc12ws.html)
+  - Download the ZIP file, extract, right click on the `HidEventFilter.inf` file and click Install.
+- [Intel Wi-Fi 6E AX210/AX211 Driver](https://www.intel.com/content/www/us/en/download/19351/windows-10-and-windows-11-wi-fi-drivers-for-intel-wireless-adapters.html)
+- [Intel Bluetooth Driver](https://www.intel.com/content/www/us/en/download/18649/intel-wireless-bluetooth-for-windows-10-and-windows-11.html)
+- [Realtek Ethernet Driver](./drivers/Realtek-10x64-PCIe-GbE_10.063.0317.2023.zip)
+  - Download the ZIP file, extract, right click on the `rt640x64.inf` file and click Install.
+- [Realtek HD Audio Driver](./drivers/Realtek-HD-Audio-6.0.9273.1.zip)
+  - Download the ZIP file and extract. Open Device Manager, expand the `Sound, video and game controllers` section, right-click on the `High Definition Audio Device` device, and click `Update driver`. Click `Browse my computer for drivers` and select the extracted folder and click Next. Restart after the install completes.
+- [Intel Iris Xe Graphics Driver](https://www.intel.com/content/www/us/en/download/726609/intel-arc-iris-xe-graphics-whql-windows.html)
+- [NVIDIA RTX 3050 Laptop GPU Driver](https://www.nvidia.com/Download/driverResults.aspx/204772/en-us/)
+  - Known bug: If you wish to use the NVIDIA GPU, at each boot you must open Device Manager and Disable, then Enable the NVIDIA GPU.
 - Other drivers are installed automatically through Windows Update
 
 ### Lemur Pro (lemp9)

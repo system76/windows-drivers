@@ -18,17 +18,17 @@ there, please contact support for Windows driver information.
 - [Galago Pro (galp7)](./drivers/intel/rpl-uph)
 - [Gazelle (gaze15)](#gazelle-gaze15)
 - [Gazelle (gaze16)](#gazelle-gaze16)
-- [Gazelle (gaze17)](#gazelle-gaze17)
+- [Gazelle (gaze17)](./drivers/intel/adl-p)
 - [Gazelle (gaze18)](./drivers/intel/rpl-uph)
 - [Lemur Pro (lemp9)](#lemur-pro-lemp9)
 - [Lemur Pro (lemp10)](#lemur-pro-lemp10)
-- [Lemur Pro (lemp11)](#lemur-pro-lemp11)
+- [Lemur Pro (lemp11)](./drivers/intel/adl-p)
 - [Lemur Pro (lemp12)](./drivers/intel/rpl-uph)
 - [Oryx Pro (oryp6)](#oryx-pro-oryp6)
 - [Oryx Pro (oryp7)](#oryx-pro-oryp7)
 - [Oryx Pro (oryp8)](#oryx-pro-oryp8)
-- [Oryx Pro (oryp9)](#oryx-pro-oryp9)
-- [Oryx Pro (oryp10)](#oryx-pro-oryp10)
+- [Oryx Pro (oryp9)](./drivers/intel/adl-p)
+- [Oryx Pro (oryp10)](./drivers/intel/adl-p)
 - [Oryx Pro (oryp11)](./drivers/intel/rpl-uph)
 - [Pangolin 12 (pang12)](#pangolin-pang12)
 - [Serval WS (serw13)](./drivers/intel/rpl-hx)
@@ -81,14 +81,7 @@ there, please contact support for Windows driver information.
 
 ### Darter Pro (darp8)
 
-- [Intel Chipset Driver](./drivers/chipset-10.1.18950.8298-public-mup.zip)
-  - Download the ZIP file, extract, and run `SetupChipset.exe`
-- [Intel SerialIO Driver](./drivers/serialio_30.100.2031.2_pv_adl-lp_22h2.zip)
-  - Download the ZIP file, extract, and run `SetupSerialIO.exe`
-- [Intel Thunderbolt Driver](./drivers/tbt_dch_sw_rev77.zip)
-  - Download the ZIP file, extract, and run `TbtWosRelease_77/Thunderbolt(TM) Software Installer.exe`
-- [Intel WiFi Driver](./drivers/wifi-phwfw01690_21.110.1.1_g.zip)
-  - Download the ZIP file, extract, and run `UWD/Win64/Installer/WirelessSetup.exe`
+- [Intel Alder Lake-P Drivers](./drivers/intel/adl-p)
 - [Realtek Card Reader](./drivers/RtsXStor_10.0.370.188.zip)
   - Download the ZIP file, extract, and run `RtsXStor_10.0.370.188/setup.exe`
 - Other drivers are installed automatically through Windows Update
@@ -135,20 +128,6 @@ there, please contact support for Windows driver information.
   - Download the ZIP file, extract, and run `SetupSerialIO.exe`
 - Other drivers are installed automatically through Windows Update
 
-### Gazelle (gaze17)
-
-- [Intel Chipset Driver](./drivers/chipset-10.1.19074.8314-public-mup.zip)
-  - Download the ZIP file, extract, and run `SetupChipset.exe`
-- [Intel HID Event Filter Driver](./drivers/hideventfilterdriver-2.2.1.386_rs5_19h1_20h1_21h2_certified.zip)
-  - Download the ZIP file, extract, and run `Installer/Setup.exe`
-- [Intel SerialIO Driver](./drivers/serialio_30.100.2148.1_pv_adl-pch_21h2.zip)
-  - Download the ZIP file, extract, and run `SetupSerialIO.exe`
-- [Intel Thunderbolt Driver](./drivers/tbt_dch_sw_rev86.zip)
-  - Download the ZIP file, extract, and run `TBT_DCH_SW_Rev86/Public/Installer_Executable/Thunderbolt(TM) Software Installer.exe`
-- [Intel WiFi Driver](./drivers/wifi-phwfw06118_22.145.0.2_g.zip)
-  - Download the ZIP file, extract, and run `UWD/Win64/Installer/WirelessSetup.exe`
-- Other drivers are installed automatically through Windows Update
-
 ### Lemur Pro (lemp9)
 
 - [Intel Chipset Driver](./drivers/chipset-10.1.18383.8213-public-mup.zip)
@@ -171,20 +150,6 @@ there, please contact support for Windows driver information.
   - Download the ZIP file, extract, and run `UWD/Win64/Installer/WirelessSetup.exe`
 - [Realtek Card Reader](./drivers/RtsXStor_10.0.370.188.zip)
   - Download the ZIP file, extract, and run `RtsXStor_10.0.370.188/setup.exe`
-- Other drivers are installed automatically through Windows Update
-
-### Lemur Pro (lemp11)
-
-- [Intel Chipset Driver](./drivers/Chipset-10.1.19159.8331-Public-MUP.zip)
-  - Download the ZIP file, extract, and run `SetupChipset.exe`
-- [Intel HID Event Filter Driver](./drivers/hideventfilterdriver-2.2.1.386_rs5_19h1_20h1_21h2_certified.zip)
-  - Download the ZIP file, extract, and run `Installer/Setup.exe`
-- [Intel SerialIO Driver](./drivers/SerialIO_30.100.2212.4_v2_PV_ADL-PCH_22H2.zip)
-  - Download the ZIP file, extract, and run `SetupSerialIO.exe`
-- [Intel Thunderbolt Driver](./drivers/TBT_DCH_SW_Rev86_2.zip)
-  - Download the ZIP file, extract, and run `TBT_DCH_SW_Rev86_2/Installer_Executable/Thunderbolt(TM) Software Installer.exe`
-- [Intel WiFi Driver](./drivers/wifi-PHWFW06454_22.150.0.3_G.zip)
-  - Download the ZIP file, extract, and run `UWD/Win64/Installer/WirelessSetup.exe`
 - Other drivers are installed automatically through Windows Update
 
 ### Oryx Pro (oryp6)
@@ -216,34 +181,6 @@ there, please contact support for Windows driver information.
 - [Intel SerialIO Driver](./drivers/serialio_30.100.2104.1_pv_tgl_pch_20h2v2.zip)
   - Download the ZIP file, extract, and run `SetupSerialIO.exe`
 - [Intel WiFi Driver](./drivers/wifi-phwfw01690_21.110.1.1_g.zip)
-  - Download the ZIP file, extract, and run `UWD/Win64/Installer/WirelessSetup.exe`
-- Other drivers are installed automatically through Windows Update
-
-### Oryx Pro (oryp9)
-
-- [Intel Chipset Driver](./drivers/chipset-10.1.19074.8314-public-mup.zip)
-  - Download the ZIP file, extract, and run `SetupChipset.exe`
-- [Intel HID Event Filter Driver](./drivers/hideventfilterdriver-2.2.1.386_rs5_19h1_20h1_21h2_certified.zip)
-  - Download the ZIP file, extract, and run `Installer/Setup.exe`
-- [Intel SerialIO Driver](./drivers/serialio_30.100.2148.1_pv_adl-pch_21h2.zip)
-  - Download the ZIP file, extract, and run `SetupSerialIO.exe`
-- [Intel Thunderbolt Driver](./drivers/tbt_dch_sw_rev86.zip)
-  - Download the ZIP file, extract, and run `TBT_DCH_SW_Rev86/Public/Installer_Executable/Thunderbolt(TM) Software Installer.exe`
-- [Intel WiFi Driver](./drivers/wifi-phwfw06118_22.145.0.2_g.zip)
-  - Download the ZIP file, extract, and run `UWD/Win64/Installer/WirelessSetup.exe`
-- Other drivers are installed automatically through Windows Update
-
-### Oryx Pro (oryp10)
-
-- [Intel Chipset Driver](./drivers/chipset-10.1.19074.8314-public-mup.zip)
-  - Download the ZIP file, extract, and run `SetupChipset.exe`
-- [Intel HID Event Filter Driver](./drivers/hideventfilterdriver-2.2.1.386_rs5_19h1_20h1_21h2_certified.zip)
-  - Download the ZIP file, extract, and run `Installer/Setup.exe`
-- [Intel SerialIO Driver](./drivers/serialio_30.100.2148.1_pv_adl-pch_21h2.zip)
-  - Download the ZIP file, extract, and run `SetupSerialIO.exe`
-- [Intel Thunderbolt Driver](./drivers/tbt_dch_sw_rev86.zip)
-  - Download the ZIP file, extract, and run `TBT_DCH_SW_Rev86/Public/Installer_Executable/Thunderbolt(TM) Software Installer.exe`
-- [Intel WiFi Driver](./drivers/wifi-phwfw06118_22.145.0.2_g.zip)
   - Download the ZIP file, extract, and run `UWD/Win64/Installer/WirelessSetup.exe`
 - Other drivers are installed automatically through Windows Update
 

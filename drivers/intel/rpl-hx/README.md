@@ -17,4 +17,5 @@ parentheses matches the sticker on your unit:
   - Download the ZIP file, extract, and run `TBT_DCH_SW_Rev90/Public/Installer_Executable/Thunderbolt(TM) Software Installer.exe`
 - [Intel WiFi Driver](./2023-WW26/wifi-PHWFW07641_22.230.0.8_P.zip)
   - Download the ZIP file, extract, and run `Install/UWD/Win64/Installer/WirelessSetup.exe`
+- [Ethernet](https://www.intel.com/content/www/us/en/download/727998/intel-network-adapter-driver-for-microsoft-windows-11.html)
 - Other drivers are installed automatically through Windows Update

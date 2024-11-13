@@ -7,6 +7,7 @@ there, please contact support for Windows driver information.
 
 - [Adder WS (addw2)](#adder-ws-addw2)
 - [Adder WS (addw3)](./drivers/intel/rpl-hx)
+- [Adder WS (addw4)](./drivers/intel/rpl-hx)
 - [Bonobo WS (bonw14)](#bonobo-ws-bonw14)
 - [Bonobo WS (bonw15)](./drivers/intel/rpl-hx)
 - [Darter Pro (darp6)](#darter-pro-darp6)
@@ -32,6 +33,7 @@ there, please contact support for Windows driver information.
 - [Oryx Pro (oryp9)](./drivers/intel/adl-p)
 - [Oryx Pro (oryp10)](./drivers/intel/adl-p)
 - [Oryx Pro (oryp11)](./drivers/intel/rpl-uph)
+- [Oryx Pro (oryp12)](./drivers/intel/rpl-hx)
 - [Pangolin 12 (pang12)](#pangolin-pang12)
 - [Pangolin 13 (pang13)](#pangolin-pang13)
 - [Serval WS (serw13)](./drivers/intel/rpl-hx)

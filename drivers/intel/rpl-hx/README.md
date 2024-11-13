@@ -3,9 +3,10 @@
 These drivers cover the following systems, please ensure the version in
 parentheses matches the sticker on your unit:
 
-- Adder WS (addw3)
+- Adder WS (addw3, addw4)
 - Bonobo WS (bonw15)
 - Serval WS (serw13)
+- Oryx Pro (oryp12)
 
 ### Drivers
 

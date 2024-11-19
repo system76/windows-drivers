@@ -10,12 +10,12 @@ parentheses matches the sticker on your unit:
 
 ### Drivers
 
-- [Intel Chipset Driver](./2023-WW26/Chipset-10.1.19502.8391-Public-MUP.zip)
+- [Intel Chipset Driver](./2024-WW28/Chipset-10.1.19899.8597-Public-Client.zip)
   - Download the ZIP file, extract, and run `SetupChipset.exe`
-- [Intel SerialIO Driver](./2023-WW26/SerialIO_30.100.2237.26_v2_RPL_ADL-PCH_22H2.zip)
-  - Download the ZIP file, extract, and run `SerialIO_30.100.2237.26_v2_RPL_ADL-PCH_22H2/SetupSerialIO.exe`
-- [Intel Thunderbolt Driver](./2023-WW26/TBT_DCH_SW_Rev90.zip)
-  - Download the ZIP file, extract, and run `TBT_DCH_SW_Rev90/Public/Installer_Executable/Thunderbolt(TM) Software Installer.exe`
-- [Intel WiFi Driver](./2023-WW26/wifi-PHWFW07641_22.230.0.8_P.zip)
-  - Download the ZIP file, extract, and run `Install/UWD/Win64/Installer/WirelessSetup.exe`
+- [Intel SerialIO Driver](./2024-WW28/30.100.2417.30-ADL.zip)
+  - Download the ZIP file, extract, and run `30.100.2417.30-ADL/SetupSerialIO.exe`
+- [Intel Thunderbolt Driver](./2024-WW28/TBT_DCH_SW_Rev93.zip)
+  - Download the ZIP file, extract, and run `TBT_DCH_SW_Rev93/Public/Installer_Executable/Thunderbolt(TM) Software Installer.exe`
+- [Intel WiFi Driver](./2024-WW28/wifi-SBHWFW01112_23.60.1.2G.zip)
+  - Download the ZIP file, extract, and run `UWD/Win64/Installer/WirelessSetup.exe`
 - Other drivers are installed automatically through Windows Update

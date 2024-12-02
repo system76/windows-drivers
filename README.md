@@ -222,6 +222,6 @@ there, please contact support for Windows driver information.
   - Download the ZIP file, extract, right click on the `WLAN/mtkwl6ex.inf` file and click Install, then right click on the `BT/mtkbtfilter.inf` file and click Install, then right click on the `WLAN_V3.3.0.565_D3ColdEnable/mtkwl6ex.inf` file and click Install.
 - [Fingerprint Driver](./drivers/pang12_pang13-FocalTechFPSPKdriver21H2X64_V2.2.3.76_WHQL.zip)
   - Download the ZIP file, extract, right click on the `FocalTechFPSPKdriver21H2X64_V2.2.3.76_WHQL/ftWbioUmdfDriverV2.inf` file and click Install.
-- [AMD Video Driver](./drivers/pang13-amd_video-22.20.44.zip)
-  - Download the ZIP file, extract, and run `221025a-385698E-Emdoor/Setup.exe`
+- [AMD Video Driver](./drivers/pang14-amd-software-adrenalin-edition-24.10.1-minimalsetup-241031_web.zip)
+  - Download the ZIP file, extract, and run `pang14-amd-software-adrenalin-edition-24.10.1-minimalsetup-241031_web.exe`
 - Other drivers are installed automatically through Windows Update

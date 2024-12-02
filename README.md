@@ -192,11 +192,11 @@ there, please contact support for Windows driver information.
 
 ### Pangolin (pang12)
 
-- [AMD Chipset Driver](./drivers/pang12_pang13-chipset-4.06.22.249.zip)
+- [AMD Chipset Driver](./drivers/pang12_pang13_pang14-chipset-4.06.22.249.zip)
   - Download the ZIP file, extract, and run `1_Chipset/AMD_Chipset_Software.exe`
 - [MediaTek Wifi and Bluetooth Driver](./drivers/pang12-wifi_bt-june_2022.zip)
   - Download the ZIP file, extract, right click on the `WLAN/mtkwl6ex.inf` file and click Install, then right click on the `BT/mtkbtfilter.inf` file and click Install.
-- [Fingerprint Driver](./drivers/pang12_pang13-FocalTechFPSPKdriver21H2X64_V2.2.3.76_WHQL.zip)
+- [Fingerprint Driver](./drivers/pang12_pang13_pang14-FocalTechFPSPKdriver21H2X64_V2.2.3.76_WHQL.zip)
   - Download the ZIP file, extract, right click on the `FocalTechFPSPKdriver21H2X64_V2.2.3.76_WHQL/ftWbioUmdfDriverV2.inf` file and click Install.
 - [AMD Audio Driver](./drivers/pang12-amd_audio-mar_2023.zip)
   - Download the ZIP file, extract, right click on the `1-install-first-Audio-10x64-ACP_6.0.0.66_rev/amdacpbus.inf` file and click Install, then right click on the `2-install-next-ACP-10x64-6.0.0.40/amdacpafd.inf` file and click Install.
@@ -204,11 +204,11 @@ there, please contact support for Windows driver information.
 
 ### Pangolin (pang13)
 
-- [AMD Chipset Driver](./drivers/pang12_pang13-chipset-4.06.22.249.zip)
+- [AMD Chipset Driver](./drivers/pang12_pang13_pang14-chipset-4.06.22.249.zip)
   - Download the ZIP file, extract, and run `1_Chipset/AMD_Chipset_Software.exe`
-- [MediaTek Wifi and Bluetooth Driver](./drivers/pang13-wifi_bt-june_2022.zip)
+- [MediaTek Wifi and Bluetooth Driver](./drivers/pang13_pang14-wifi_bt-june_2022.zip)
   - Download the ZIP file, extract, right click on the `WLAN/mtkwl6ex.inf` file and click Install, then right click on the `BT/mtkbtfilter.inf` file and click Install, then right click on the `WLAN_V3.3.0.565_D3ColdEnable/mtkwl6ex.inf` file and click Install.
-- [Fingerprint Driver](./drivers/pang12_pang13-FocalTechFPSPKdriver21H2X64_V2.2.3.76_WHQL.zip)
+- [Fingerprint Driver](./drivers/pang12_pang13_pang14-FocalTechFPSPKdriver21H2X64_V2.2.3.76_WHQL.zip)
   - Download the ZIP file, extract, right click on the `FocalTechFPSPKdriver21H2X64_V2.2.3.76_WHQL/ftWbioUmdfDriverV2.inf` file and click Install.
 - [AMD Video Driver](./drivers/pang13-amd_video-22.20.44.zip)
   - Download the ZIP file, extract, and run `221025a-385698E-Emdoor/Setup.exe`
@@ -216,11 +216,11 @@ there, please contact support for Windows driver information.
 
 ### Pangolin (pang14)
 
-- [AMD Chipset Driver](./drivers/pang12_pang13-chipset-4.06.22.249.zip)
+- [AMD Chipset Driver](./drivers/pang12_pang13_pang14-chipset-4.06.22.249.zip)
   - Download the ZIP file, extract, and run `1_Chipset/AMD_Chipset_Software.exe`
-- [MediaTek Wifi and Bluetooth Driver](./drivers/pang13-wifi_bt-june_2022.zip)
+- [MediaTek Wifi and Bluetooth Driver](./drivers/pang13_pang14-wifi_bt-june_2022.zip)
   - Download the ZIP file, extract, right click on the `WLAN/mtkwl6ex.inf` file and click Install, then right click on the `BT/mtkbtfilter.inf` file and click Install, then right click on the `WLAN_V3.3.0.565_D3ColdEnable/mtkwl6ex.inf` file and click Install.
-- [Fingerprint Driver](./drivers/pang12_pang13-FocalTechFPSPKdriver21H2X64_V2.2.3.76_WHQL.zip)
+- [Fingerprint Driver](./drivers/pang12_pang13_pang14-FocalTechFPSPKdriver21H2X64_V2.2.3.76_WHQL.zip)
   - Download the ZIP file, extract, right click on the `FocalTechFPSPKdriver21H2X64_V2.2.3.76_WHQL/ftWbioUmdfDriverV2.inf` file and click Install.
 - [AMD Video Driver](./drivers/pang14-amd-software-adrenalin-edition-24.10.1-minimalsetup-241031_web.zip)
   - Download the ZIP file, extract, and run `pang14-amd-software-adrenalin-edition-24.10.1-minimalsetup-241031_web.exe`

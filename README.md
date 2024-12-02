@@ -36,6 +36,7 @@ there, please contact support for Windows driver information.
 - [Oryx Pro (oryp12)](./drivers/intel/rpl-hx)
 - [Pangolin 12 (pang12)](#pangolin-pang12)
 - [Pangolin 13 (pang13)](#pangolin-pang13)
+- [Pangolin 14 (pang14)](#pangolin-pang14)
 - [Serval WS (serw13)](./drivers/intel/rpl-hx)
 
 ### Adder WS (addw2)
@@ -202,6 +203,18 @@ there, please contact support for Windows driver information.
 - Other drivers are installed automatically through Windows Update
 
 ### Pangolin (pang13)
+
+- [AMD Chipset Driver](./drivers/pang12_pang13-chipset-4.06.22.249.zip)
+  - Download the ZIP file, extract, and run `1_Chipset/AMD_Chipset_Software.exe`
+- [MediaTek Wifi and Bluetooth Driver](./drivers/pang13-wifi_bt-june_2022.zip)
+  - Download the ZIP file, extract, right click on the `WLAN/mtkwl6ex.inf` file and click Install, then right click on the `BT/mtkbtfilter.inf` file and click Install, then right click on the `WLAN_V3.3.0.565_D3ColdEnable/mtkwl6ex.inf` file and click Install.
+- [Fingerprint Driver](./drivers/pang12_pang13-FocalTechFPSPKdriver21H2X64_V2.2.3.76_WHQL.zip)
+  - Download the ZIP file, extract, right click on the `FocalTechFPSPKdriver21H2X64_V2.2.3.76_WHQL/ftWbioUmdfDriverV2.inf` file and click Install.
+- [AMD Video Driver](./drivers/pang13-amd_video-22.20.44.zip)
+  - Download the ZIP file, extract, and run `221025a-385698E-Emdoor/Setup.exe`
+- Other drivers are installed automatically through Windows Update
+
+### Pangolin (pang14)
 
 - [AMD Chipset Driver](./drivers/pang12_pang13-chipset-4.06.22.249.zip)
   - Download the ZIP file, extract, and run `1_Chipset/AMD_Chipset_Software.exe`

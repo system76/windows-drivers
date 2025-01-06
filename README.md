@@ -37,6 +37,7 @@ there, please contact support for Windows driver information.
 - [Pangolin 12 (pang12)](#pangolin-pang12)
 - [Pangolin 13 (pang13)](#pangolin-pang13)
 - [Pangolin 14 (pang14)](#pangolin-pang14)
+- [Pangolin 15 (pang15)](#pangolin-pang15)
 - [Serval WS (serw13)](./drivers/intel/rpl-hx)
 
 ### Adder WS (addw2)
@@ -222,6 +223,16 @@ there, please contact support for Windows driver information.
   - Download the ZIP file, extract, right click on the `WLAN/mtkwl6ex.inf` file and click Install, then right click on the `BT/mtkbtfilter.inf` file and click Install, then right click on the `WLAN_V3.3.0.565_D3ColdEnable/mtkwl6ex.inf` file and click Install.
 - [Fingerprint Driver](./drivers/pang12_pang13_pang14-FocalTechFPSPKdriver21H2X64_V2.2.3.76_WHQL.zip)
   - Download the ZIP file, extract, right click on the `FocalTechFPSPKdriver21H2X64_V2.2.3.76_WHQL/ftWbioUmdfDriverV2.inf` file and click Install.
-- [AMD Video Driver](./drivers/pang14-amd-software-adrenalin-edition-24.10.1-minimalsetup-241031_web.zip)
+- [AMD Video Driver](./drivers/pang14_pang15-amd-software-adrenalin-edition-24.10.1-minimalsetup-241031_web.zip)
   - Download the ZIP file, extract, and run `pang14-amd-software-adrenalin-edition-24.10.1-minimalsetup-241031_web.exe`
+- Other drivers are installed automatically through Windows Update
+
+### Pangolin (pang15)
+
+- [AMD Chipset and Video Driver](./drivers/pang14_pang15-amd-software-adrenalin-edition-24.10.1-minimalsetup-241031_web.zip)
+  - Download the ZIP file, extract, and run `pang14-amd-software-adrenalin-edition-24.10.1-minimalsetup-241031_web.exe`
+- [MediaTek Wifi and Bluetooth Driver](./drivers/pang15-wifi-bt.zip)
+  - Download the ZIP file, extract, right click on the `WLAN/mtkwl6ex.inf` file and click Install, then right click on the `BT/mtkbtfilter.inf` file and click Install.
+- [Fingerprint Driver](./drivers/pang12_pang13_pang14-FocalTechFPSPKdriver21H2X64_V2.2.3.76_WHQL.zip)
+  - Download the ZIP file, extract, right click on the `FocalTechFPSPKdriver21H2X64_V2.2.3.76_WHQL/ftWbioUmdfDriverV2.inf` file and click Install.
 - Other drivers are installed automatically through Windows Update

@@ -233,6 +233,6 @@ there, please contact support for Windows driver information.
   - Download the ZIP file, extract, and run `pang14-amd-software-adrenalin-edition-24.10.1-minimalsetup-241031_web.exe`
 - [MediaTek Wifi and Bluetooth Driver](./drivers/pang15-wifi-bt.zip)
   - Download the ZIP file, extract, right click on the `WLAN/mtkwl6ex.inf` file and click Install, then right click on the `BT/mtkbtfilter.inf` file and click Install.
-- [Fingerprint Driver](./drivers/pang12_pang13_pang14-FocalTechFPSPKdriver21H2X64_V2.2.3.76_WHQL.zip)
-  - Download the ZIP file, extract, right click on the `FocalTechFPSPKdriver21H2X64_V2.2.3.76_WHQL/ftWbioUmdfDriverV2.inf` file and click Install.
+- [Fingerprint Driver](./drivers/pang15-fingerprint-reader.zip)
+  - Download the ZIP file, extract, right click on the `GoodixMocUsb.inf` file and click Install.
 - Other drivers are installed automatically through Windows Update

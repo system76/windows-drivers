@@ -167,7 +167,7 @@ there, please contact support for Windows driver information.
   - Download the ZIP file, extract. Open Device Manager and locate the device labelled "Network Device". Right click and select "Update Driver". Navigate to the directory you extracted the ZIP file.
 - [Intel Chipset Driver](./drivers/intel/rpl-uph/2023-WW26/Chipset-10.1.19502.8391-Public-MUP.zip)
   - Download the ZIP file, extract, and run `SetupChipset.exe`
-- [Intel SerialIO Driver](./drivers/intel/rpl-uph/SerialIO_30.100.2237.26_v2_RPL_ADL-PCH_22H2.zip)
+- [Intel SerialIO Driver](./drivers/intel/rpl-uph/2023-WW26/SerialIO_30.100.2237.26_v2_RPL_ADL-PCH_22H2.zip)
   - Download the ZIP file, extract, and run `SetupSerialIO.exe`
 - [Intel LAN Driver](./drivers/Intel_LAN-I225-I226-NetAdapterCx-Win11-x64-v2.1.4.3.zip)
   - Download the ZIP file, extract. Open Device Manager and locate the device labelled "Ethernet Device". Right click and select "Update Driver". Navigate to the directory you extracted the ZIP file.
@@ -179,7 +179,7 @@ there, please contact support for Windows driver information.
 
 - [Intel WiFi Driver](./drivers/meer9-wifi.zip)
   - Download the ZIP file, extract. Open Device Manager and locate the device labelled "Network Device". Right click and select "Update Driver". Navigate to the directory you extracted the ZIP file.
-- [Intel Chipset Driver](./drivers/intel/mtl-uh/Chipset-10.1.19627.8423-Public-MUP.zip)
+- [Intel Chipset Driver](./drivers/intel/mtl-uh/2024-WW24/Chipset-10.1.19627.8423-Public-MUP.zip)
   - Download the ZIP file, extract, and run `SetupChipset.exe`
 - [Intel SerialIO Driver](./drivers/meer9-Intel-SerialIO-driver-v30.100.2318.58.zip)
   - Download the ZIP file, extract, and run `SetupSerialIO.exe`

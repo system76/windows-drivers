@@ -27,6 +27,8 @@ there, please contact support for Windows driver information.
 - [Lemur Pro (lemp11)](./drivers/intel/adl-p)
 - [Lemur Pro (lemp12)](./drivers/intel/rpl-uph)
 - [Lemur Pro (lemp13)](./drivers/intel/mtl-uh)
+- [Meerkat (meer8)](#meerkat-meer8)
+- [Meerkat (meer9)](#meerkat-meer9)
 - [Oryx Pro (oryp6)](#oryx-pro-oryp6)
 - [Oryx Pro (oryp7)](#oryx-pro-oryp7)
 - [Oryx Pro (oryp8)](#oryx-pro-oryp8)
@@ -158,6 +160,33 @@ there, please contact support for Windows driver information.
 - [Realtek Card Reader](./drivers/RtsXStor_10.0.370.188.zip)
   - Download the ZIP file, extract, and run `RtsXStor_10.0.370.188/setup.exe`
 - Other drivers are installed automatically through Windows Update
+
+### Meerkat (meer8)
+
+- [Intel WiFi Driver](./drivers/meer8-wifi.zip)
+  - Download the ZIP file, extract. Open Device Manager and locate the device labelled "Network Device". Right click and select "Update Driver". Navigate to the directory you extracted the ZIP file.
+- [Intel Chipset Driver](./drivers/intel/rpl-uph/2023-WW26/Chipset-10.1.19502.8391-Public-MUP.zip)
+  - Download the ZIP file, extract, and run `SetupChipset.exe`
+- [Intel SerialIO Driver](./drivers/intel/rpl-uph/SerialIO_30.100.2237.26_v2_RPL_ADL-PCH_22H2.zip)
+  - Download the ZIP file, extract, and run `SetupSerialIO.exe`
+- [Intel LAN Driver](./drivers/Intel_LAN-I225-I226-NetAdapterCx-Win11-x64-v2.1.4.3.zip)
+  - Download the ZIP file, extract. Open Device Manager and locate the device labelled "Ethernet Device". Right click and select "Update Driver". Navigate to the directory you extracted the ZIP file.
+- [Realtek HD Audio Driver](./drivers/AUD_Realtek_6.0.9621.1_iSST_10.29.00.10273_WW06_39_2024.zip)
+  - Download the ZIP file, extract, and run `setup.exe`
+- Other drivers are installed automatically through Windows Update
+
+### Meerkat (meer9)
+
+- [Intel WiFi Driver](./drivers/meer9-wifi.zip)
+  - Download the ZIP file, extract. Open Device Manager and locate the device labelled "Network Device". Right click and select "Update Driver". Navigate to the directory you extracted the ZIP file.
+- [Intel Chipset Driver](./drivers/intel/mtl-uh/Chipset-10.1.19627.8423-Public-MUP.zip)
+  - Download the ZIP file, extract, and run `SetupChipset.exe`
+- [Intel SerialIO Driver](./drivers/meer9-Intel-SerialIO-driver-v30.100.2318.58.zip)
+  - Download the ZIP file, extract, and run `SetupSerialIO.exe`
+- [Intel LAN Driver](./drivers/meer9-Intel-I226_I225_LAN_Driver-v2.1.3.15.zip)
+  - Download the ZIP file, extract, and run `Intel_PCI_Express_Network_Connection.exe`
+- [Intel Thunderbolt Driver](./drivers/intel/mtl-uh/2024-WW24/TBT_DCH_SW_Rev91_resigned.zip)
+  - Download the ZIP file, extract, and run `Installer_Executable/Thunderbolt(TM) Software Installer.exe`
 
 ### Oryx Pro (oryp6)
 

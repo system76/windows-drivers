@@ -187,6 +187,7 @@ there, please contact support for Windows driver information.
   - Download the ZIP file, extract, and run `Intel_PCI_Express_Network_Connection.exe`
 - [Intel Thunderbolt Driver](./drivers/intel/mtl-uh/2024-WW24/TBT_DCH_SW_Rev91_resigned.zip)
   - Download the ZIP file, extract, and run `Installer_Executable/Thunderbolt(TM) Software Installer.exe`
+- Other drivers are installed automatically through Windows Update
 
 ### Oryx Pro (oryp6)
 

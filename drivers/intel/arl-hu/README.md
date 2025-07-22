@@ -9,7 +9,7 @@ parentheses matches the sticker on your unit:
 
 - [Intel Chipset Driver](./intel-chipset-10.1.20020.8623.zip)
   - Download the ZIP file, extract, and run `SetupChipset.exe`
-- [Intel SerialIO Driver](./intel-serialIO-ARL.zip)
+- [Intel SerialIO Driver](./2024-WW33/30.100.2418.12-arl.zip)
   - Download the ZIP file, extract, and run `SetupSerialIO.exe`
 - [Intel Thunderbolt Driver](./intel-thunderbolt-TBT_DCH_SW_Rev91_resigned.zip)
   - Download the ZIP file, extract, and run `Public/Installer_Executable/Thunderbolt(TM) Software Installer.exe`

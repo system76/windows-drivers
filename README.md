@@ -15,6 +15,7 @@ there, please contact support for Windows driver information.
 - [Darter Pro (darp8)](#darter-pro-darp8)
 - [Darter Pro (darp9)](./drivers/intel/rpl-uph)
 - [Darter Pro (darp10)](./drivers/intel/mtl-uh)
+- [Darter Pro (darp11)](./drivers/intel/arl-hu)
 - [Galago Pro (galp4)](#galago-pro-galp4)
 - [Galago Pro (galp5)](#galago-pro-galp5)
 - [Galago Pro (galp7)](./drivers/intel/rpl-uph)

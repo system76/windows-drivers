@@ -1,4 +1,4 @@
-## System76 Machines with Intel Arrow Lake CPUs
+## System76 Machines with Intel Arrow Lake-U/H CPUs
 
 These drivers cover the following systems, please ensure the version in
 parentheses matches the sticker on your unit:
